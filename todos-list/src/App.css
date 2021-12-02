@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,7 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
+.App{
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgb(175, 174, 211) 0%, rgba(69,5,80,1) 10%, rgba(8,106,44,1) 19%, rgba(69,9,121,1) 24%, rgba(8,98,129,1) 39%, rgba(131,154,7,1) 51%, rgba(107,168,6,1) 58%, rgba(174,42,100,1) 77%, rgba(0,212,255,1) 100%);}
